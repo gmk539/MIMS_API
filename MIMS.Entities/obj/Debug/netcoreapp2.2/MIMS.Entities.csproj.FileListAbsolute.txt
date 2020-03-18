@@ -1,0 +1,9 @@
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\bin\Debug\netcoreapp2.2\MIMS.Entities.deps.json
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\bin\Debug\netcoreapp2.2\MIMS.Entities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\bin\Debug\netcoreapp2.2\MIMS.Entities.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.csprojAssemblyReference.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.AssemblyInfoInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.AssemblyInfo.cs
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Entities\obj\Debug\netcoreapp2.2\MIMS.Entities.pdb

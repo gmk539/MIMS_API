@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mgudipudi\\source\\repos\\MIMS\\MIMS.DAL\\MIMS.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mgudipudi\\source\\repos\\MIMS\\MIMS.DAL\\MIMS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mgudipudi\\source\\repos\\MIMS\\MIMS.DAL\\MIMS.DAL.csproj",
+        "projectName": "MIMS.DAL",
+        "projectPath": "C:\\Users\\mgudipudi\\source\\repos\\MIMS\\MIMS.DAL\\MIMS.DAL.csproj",
+        "packagesPath": "C:\\Users\\mgudipudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mgudipudi\\source\\repos\\MIMS\\MIMS.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mgudipudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\pc.factset.com\\isfile\\Slow\\DevOps\\PrivateNugetRepositories\\HR-Nuget": {},
+          "http://artifactory.factset.com/artifactory/api/nuget/nuget-fds": {},
+          "http://istfs.pc.factset.com:8060/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

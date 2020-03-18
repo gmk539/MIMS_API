@@ -1,0 +1,9 @@
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\bin\Debug\netcoreapp2.2\MIMS.Utilities.deps.json
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\bin\Debug\netcoreapp2.2\MIMS.Utilities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\bin\Debug\netcoreapp2.2\MIMS.Utilities.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.AssemblyInfoInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.AssemblyInfo.cs
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.Utilities\obj\Debug\netcoreapp2.2\MIMS.Utilities.csprojAssemblyReference.cache

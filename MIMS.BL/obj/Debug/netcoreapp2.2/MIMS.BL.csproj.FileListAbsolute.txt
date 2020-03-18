@@ -1,0 +1,16 @@
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.BL.deps.json
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.BL.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.BL.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.csprojAssemblyReference.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.AssemblyInfoInputs.cache
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.AssemblyInfo.cs
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.DAL.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.Entities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.Utilities.dll
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.DAL.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.Entities.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\bin\Debug\netcoreapp2.2\MIMS.Utilities.pdb
+C:\Users\mgudipudi\source\repos\MIMS\MIMS.BL\obj\Debug\netcoreapp2.2\MIMS.BL.csproj.CopyComplete

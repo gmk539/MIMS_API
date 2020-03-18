@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MIMS.DAL\MIMS.DAL.csproj" />
+    <ProjectReference Include="..\MIMS.Entities\MIMS.Entities.csproj" />
+    <ProjectReference Include="..\MIMS.Utilities\MIMS.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
